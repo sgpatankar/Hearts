@@ -9,6 +9,9 @@ Run the following:
 ```python
 python3 Game.py
 ```
+
+**NOTE**: Make sure the game is run on as large a screen as possible, otherwise the cards will not display well. Zoom in if necessary.
+
 **Optional**: 
 
 To run the game automatically (no interaction), change the ```automated```variable in Game.py to ```True```.
